@@ -4,6 +4,15 @@
 Who suicide?
 
 
+| Campo          | Descripción                                                |
+|----------------|------------------------------------------------------------|
+| Country        | Ubicacion fisica                                           |
+| Year           | Año del suceso                                             |
+| Sex            | Genero de personas                                         |
+| Init_age       | Rango inicial de edad                                      |
+| Last_age       | Rango final de edad                                        |
+| Suicides       | Cantidad de suicidios                                      |
+| No population  | Cantidad de habitantes en el país                          |
 
 
 ## Authors
