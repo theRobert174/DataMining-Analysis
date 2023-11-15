@@ -54,7 +54,7 @@ def deceased_through_years():
     plt.show()
 
 
-# deceased_through_years()
+deceased_through_years()
 
 def range_between_79_00_deceased_women():
     # newDF = df['Anio'] >= 80's and <= 00
@@ -94,4 +94,4 @@ def range_between_79_00_deceased_women():
     plt.show()
 
 
-range_between_79_00_deceased_women()
+# range_between_79_00_deceased_women()
