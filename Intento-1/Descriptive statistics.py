@@ -3,7 +3,7 @@
 
 import pandas as pd
 from tabulate import tabulate
-from IPython.display import display, HTML
+from IPython.display import display
 
 # Cargar el archivo CSV en un DataFrame
 df = pd.read_csv('fixed_data_who_suicide.csv')
