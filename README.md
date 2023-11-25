@@ -50,7 +50,6 @@ classDiagram
     rangeAge "1:1" -- "1:1" Data
 ```
 
-
 ## Authors
 
 - [@theRobert174](https://www.github.com/theRobert174)
